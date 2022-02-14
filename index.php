@@ -1,6 +1,6 @@
 <?php 
 $censura = $_GET["dolor"];
-$leng = strlen($paragrafo);
+$leng = strlen($paragrafo); 
 $paragrafo = "Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque aliquam perferendis voluptatem quos architecto numquam suscipit nisi beatae recusandae sapiente!";
 $valoreCensurato = "***";
 
